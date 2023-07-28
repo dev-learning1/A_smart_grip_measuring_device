@@ -14,3 +14,6 @@ AutoCAD를 활용하여 모델 개발<br/>
 
 ### 시연
 <img src="https://github.com/dev-learning1/A_smart_grip_measuring_device/assets/115637631/0c40087a-bec2-4036-8b64-6aaa1cff7a27" width="30%" height="30%">
+
+### 제작 과정
+![image](https://github.com/dev-learning1/A_smart_grip_measuring_device/assets/115637631/78e4f3ef-6079-483a-8cdc-72d3d040a58b)
